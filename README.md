@@ -10,7 +10,7 @@
 # git clone https://github.com/mdkausar295/PhoneSploit
 # cd PhoneSploit
 # pkg install pip
-# pip install colorama
+# pip2 install colorama
 # python2 main_linux.py
 # 1
 # 1
