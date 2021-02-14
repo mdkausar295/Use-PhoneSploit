@@ -1,4 +1,4 @@
-# <b>Dawnload CMax-Kausar.sh file</b>
+<dr># <b>Dawnload CMax-Kausar.sh file</b></dr>
 
 # termux-setup-storage
 # cd /sdcard
