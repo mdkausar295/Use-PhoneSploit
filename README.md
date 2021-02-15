@@ -30,7 +30,7 @@
 # git clone https://github.com/mdkausar295/PhoneSploit
 # cd PhoneSploit
 # sudo apt-get install pip
-# sudo apt-get pip2 install colorama
+# sudo pip install colorama
 # python2 main_linux.py
 #
 #
@@ -66,7 +66,7 @@
 # git clone https://github.com/mdkausar295/PhoneSploitVip
 # cd PhoneSploitVip
 # sudo apt-get install pip
-# sudo apt-get pip3 install colorama
+# sudo pip3 install colorama
 # python3 phonesploitvip.py
 #
 @ Enjoy The PhoneSploit @
